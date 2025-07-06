@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🛠 I’m currently working on: "Developing a social app using the location service in Expo."<br>👥 I’m looking to collaborate on: "Open-source projects related to AI-driven apps."<br>🤝 I’m looking for help with: "Refining the UI/UX design of my RouteReelApp."<br>🌱 I’m currently learning: "Advanced image filtering techniques and their applications in computer vision."<br>💬 Ask me about: "Anything, really anything."<br>⚡ Fun fact: "I love creating tools that help people streamline their workflows and achieve their goals, and I have a grumpy bunny named Oreo."
+🛠 I’m currently working on: "Developing a fullstack extension with gemini to automate prompt engineering."<br>👥 I’m looking to collaborate on: "Open-source projects related to AI-driven apps."<br>🤝 I’m looking for help with: "Refining the UI/UX design of my RouteReelApp."<br>🌱 I’m currently learning: "Advanced image filtering techniques and their applications in computer vision."<br>💬 Ask me about: "Anything, really anything."<br>⚡ Fun fact: "I love creating tools that help people streamline their workflows and achieve their goals, and I have a grumpy bunny named Oreo."
 
 
 ## 🌐 Socials:
