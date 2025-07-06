@@ -2,6 +2,8 @@
 # 💫 About Me:
 🛠 I’m currently working on: "Developing a fullstack extension with gemini to automate prompt engineering."<br>👥 I’m looking to collaborate on: "Open-source projects related to AI-driven apps."<br>🤝 I’m looking for help with: "Leanr more on how I can make better and bigger impact"<br>🌱 I’m currently learning: "Advanced image filtering techniques and their applications in computer vision."<br>💬 Ask me about: "Anything, really anything."<br>⚡ Fun fact: "I love creating tools that help people streamline their workflows and achieve their goals, and I have a grumpy bunny named Oreo."
 
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/39e369bf-e80f-4a62-a98e-660997290bb5" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ethanwliu/) 
